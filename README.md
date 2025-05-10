@@ -63,5 +63,5 @@ Useful for hands-on practice and real-life string manipulation tasks.
 
 ## 📌 Note
 
-This repository is part of the learning journey under mentorship by **Sudhanshu Sir** at Euron Learning.  
+This repository is part of the learning journey under mentorship by **Sudhanshu Sir** at Euron .  
 Each notebook was completed with hands-on practice and concept reinforcement.

@@ -1,6 +1,6 @@
 # 💡 Python with DSA – Strings Assignment
 
-This repository contains Jupyter Notebooks related to the **Strings** section of the _Python with Data Structures and Algorithms_ course. Each file is dedicated to a key concept with practical examples.
+This repository contains Jupyter Notebooks related to the **Strings** section of the *Python with Data Structures and Algorithms* course. Each file is dedicated to a key concept with practical examples.
 
 ---
 
@@ -8,7 +8,7 @@ This repository contains Jupyter Notebooks related to the **Strings** section of
 
 ---
 
-### 📄 `Variable & datatypes.ipynb`
+### 📄 [Variable & datatypes.ipynb](./Python_with_DSA/Variable%20&%20datatypes.ipynb)
 
 **Description:**  
 Introduces Python variables and data types such as integers, floats, strings, lists, etc.  
@@ -16,7 +16,7 @@ Covers declaration, type conversion, and basic usage examples.
 
 ---
 
-### 📄 `string_immutability&interning.ipynb`
+### 📄 [string_immutability&interning.ipynb](./Python_with_DSA/string_immutability&interning.ipynb)
 
 **Description:**  
 Explains the concept of string immutability and memory interning.  
@@ -24,7 +24,7 @@ Includes examples showing how Python optimizes memory for strings and why string
 
 ---
 
-### 📄 `string_inbuilt.ipynb`
+### 📄 [string_inbuilt.ipynb](./Python_with_DSA/string_inbuilt.ipynb)
 
 **Description:**  
 Demonstrates commonly used **in-built string methods** like `.upper()`, `.lower()`, `.replace()`, `.find()`, etc.  
@@ -32,7 +32,7 @@ Ideal for understanding how to manipulate string data easily.
 
 ---
 
-### 📄 `string_indexing&slicing.ipynb`
+### 📄 [string_indexing&slicing.ipynb](./Python_with_DSA/string_indexing&slicing.ipynb)
 
 **Description:**  
 Focuses on **accessing characters** within a string using indexing and slicing techniques.  
@@ -40,7 +40,7 @@ Includes positive/negative indexing and advanced slicing patterns.
 
 ---
 
-### 📄 `string_operations.ipynb`
+### 📄 [string_operations.ipynb](./Python_with_DSA/string_operations.ipynb)
 
 **Description:**  
 Covers **basic and advanced string operations** including concatenation, repetition, comparison, and more.  
@@ -65,4 +65,3 @@ Useful for hands-on practice and real-life string manipulation tasks.
 
 This repository is part of the learning journey under mentorship by **Sudhanshu Sir** at Euron Learning.  
 Each notebook was completed with hands-on practice and concept reinforcement.
-
